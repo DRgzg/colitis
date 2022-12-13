@@ -1,0 +1,4 @@
+ID,ImagePath,ExamAge,CRPmgl,Precededsurgery,Antibiotics,Leucocytes109l
+Infectious,examples/Infectious.png,44,1.0,0.0,1.0,7.2
+IBD,examples/IBD.png,33,250.2,0.0,0.0,19.6
+Ischemic,examples/Ischemic.png,85,3.7,0.0,0.0,10.0
