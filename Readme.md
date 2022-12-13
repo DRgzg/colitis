@@ -21,7 +21,12 @@ reasonable request. Datasets can only be shared after formal ethics approval.
 
 ## Prerequisites
 
-
+* Python (3.8)
+* numpy (1.23.5)
+* tensorflow (2.11.0)
+* lightgbm (3.3.3)
+* Pillow (9.3.0)
+* pandas (1.5.2)
 
 ## Reference
 
