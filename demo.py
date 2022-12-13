@@ -14,7 +14,7 @@ if __name__ == '__main__':
 
     # Load models
 
-    images_model = tf.keras.models.load_model('models/images_model.h5')
+    images_model = tf.keras.models.load_model('models/images_model')
 
     with open('models/clinical_model', "rb") as f:
         clinical_model = pickle.load(f)
