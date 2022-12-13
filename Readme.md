@@ -15,7 +15,7 @@ The script 'demo.py' shows the users how these models can be applied.
 
 ## Data availability
 
-An example is given to show how the models can be used. 
+Example images are given to show how the models can be used. 
 The data used to train, validate, and test the models will be made available by the authors upon 
 reasonable request. Datasets can only be shared after formal ethics approval. 
 
