@@ -3,7 +3,7 @@
 ## Introduction
 
 In here you may find the models described in our paper 
-[Artificial-intelligence-based decision support tools for the differential diagnosis of colitis](https://), 
+[Artificial-intelligence-based decision support tools for the differential diagnosis of colitis](https://doi.org/10.1111/eci.13960), 
 used for descriminating IBD from infectious and ischemic colitis using endoscopic images and clinical data.
 
 Three different models were trained and tested:
