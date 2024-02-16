@@ -30,10 +30,6 @@ reasonable request. Datasets can only be shared after formal ethics approval.
 
 ## Reference
 
-The manuscript supporting these models is currently under submission.
-This section will be updated to have the full details for referencing purposes.
+Guimarães P, Finkler H, Reichert MC, Zimmer V, Grünhage F, Krawczyk M, Lammert F, Keller A, Casper M. Artificial‐intelligence‐based decision support tools for the differential diagnosis of colitis. European Journal of Clinical Investigation. 2023 Jun;53(6):e13960. DOI: [10.1111/eci.13960](https://doi.org/10.1111/eci.13960).
 
 If you found this code useful, please cite our paper.
-
-
-
